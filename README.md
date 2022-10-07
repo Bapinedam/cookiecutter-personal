@@ -26,7 +26,7 @@ conda install -c conda-forge cookiecutter
 Go to the repository where you want to make a new project:
 
 ```bash
-cookiecutter https://github.com/platzi/curso-entorno-avanzado-ds --checkout cookiecutter-personal-platzi
+cookiecutter https://github.com/Bapinedam/cookiecutter-personal
 ```
 
 
