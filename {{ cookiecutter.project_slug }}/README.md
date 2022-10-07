@@ -6,11 +6,6 @@ Version: {{ cookiecutter.project_version }}
 
 {{ cookiecutter.project_description }}
 
-## Prerequisites
-
-- [Anaconda](https://www.anaconda.com/download/) >=4.x
-- Optional [Mamba](https://mamba.readthedocs.io/en/latest/)
-
 ## Create environment
 
 ```bash
@@ -34,7 +29,7 @@ activate {{ cookiecutter.project_slug }}
         │
         ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
         │                         the creator's initials, and a short `-` delimited description, e.g.
-        │                         `1.0-jvelezmagic-initial-data-exploration`.
+        │                         `1.0-initial-data-exploration`.
         │
         ├── .gitignore         <- Files to ignore by `git`.
         │
@@ -43,4 +38,3 @@ activate {{ cookiecutter.project_slug }}
         └── README.md          <- The top-level README for developers using this project.
 
 ---
-Project created for demonstration purposes for the course "[Personalización Avanzada de Entorno para ciencia de Datos]()" by [Platzi](https://platzi.com/) - [@jvelezmagic](https://jvelezmagic.com/).

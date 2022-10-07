@@ -1,4 +1,4 @@
-import os
+import random
 import subprocess
 
 MESSAGE_COLOR = "\x1b[34m"
@@ -12,4 +12,13 @@ subprocess.call(['git', 'add', '*'])
 subprocess.call(['git', 'commit', '-m', 'Initial commit'])
 #subprocess.call(['pip', 'install', '-r', 'requirements.txt'])
 
-print(f"{MESSAGE_COLOR}The beginning of your destiny is defined now! Create and have fun!{RESET_ALL}")
+
+frases = ["1% per day is 37 times more in a year", 
+        "Try don't fuck it",
+        "Don't ask the people to invest in you if you are not investing in you",
+        "Fake it until you make it",
+        "Do run, Do right, Do fast!"]
+
+random_sentence = random.choice(frases)
+
+print(f"{MESSAGE_COLOR} {random_sentence} {RESET_ALL}")
