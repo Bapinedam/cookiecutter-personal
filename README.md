@@ -1,10 +1,8 @@
 # Template for DataScience projects
 
 <!-- badges: start -->
-[![@pineda_brayam](https://img.shields.io/badge/@pineda_brayam-LinkedIn-blue?&logoColor=white)](https://www.linkedin.com/in/brayampineda/) 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bapinedam@unal.edu.co)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayampineda/) 
+![bapinedam@unal.edu.co](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <!-- badges: end -->
 
 Aprende a crear tu propia plantilla personalizada utilizando cookiecutter.
